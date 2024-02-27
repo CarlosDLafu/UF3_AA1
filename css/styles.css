@@ -2,6 +2,15 @@
 
     text-decoration: none;
     color: black;
+    
+
+}
+
+*:focus {
+
+    outline: 1;
+    outline-style: dotted;
+    outline-color: lightgray;
 
 }
 
